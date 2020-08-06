@@ -31,3 +31,5 @@ class Post extends Component {
 }
 
 export default Post;
+
+//I totally messaged up post.js and topiclist.js. Look at the finished code to fix.

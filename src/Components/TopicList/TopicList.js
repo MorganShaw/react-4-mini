@@ -13,7 +13,7 @@ class TopicList extends Component {
     // This is where you would make an axios call to a server in a fullstack application
     // but for today we'll be just be using an array of dummy data
     this.setState({
-      posts: posts
+      posts: []
     });
   }
   render() {
